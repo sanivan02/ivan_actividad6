@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Contact Manager - CRUD Application
-MacOS optimized version
-"""
-
 import tkinter as tk
 from tkinter import messagebox, ttk
 import json
